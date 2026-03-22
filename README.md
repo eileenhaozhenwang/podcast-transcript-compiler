@@ -1,3 +1,5 @@
+[SKILL.md](https://github.com/user-attachments/files/26163672/SKILL.md)
+
 [README.md](https://github.com/user-attachments/files/26163667/README.md)
 # 播客转录稿编译为微信公众号文章
 
